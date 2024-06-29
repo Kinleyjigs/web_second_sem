@@ -1,0 +1,22 @@
+[
+  {
+    "username": "user1",
+    "content": "This is the content of the first post.",
+    "timestamp": "2022-04-01T12:00:00Z"
+  },
+  {
+    "username": "user2",
+    "content": "Check out this awesome photo!",
+    "timestamp": "2022-04-02T08:30:00Z"
+  },
+  {
+    "username": "user3",
+    "content": "I can't believe what just happened...",
+    "timestamp": "2022-04-03T18:45:00Z"
+  },
+  {
+    "username": "user4",
+    "content": "Just finished a great workout!",
+    "timestamp": "2022-04-04T15:20:00Z"
+  }
+]
